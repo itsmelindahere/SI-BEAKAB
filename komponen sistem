@@ -1,0 +1,21 @@
+/spk-wp
+│
+├── home.php
+├── dashboard.php
+├── kriteria.php
+├── alternatif.php
+├── perhitungan.php
+├── analisa.php
+├── penjelasan.php
+├── logout.php
+├── tambah_alternatif.php
+├── edit_kriteria.php
+├── delete_kriteria.php
+├── css/
+│   └── sb-admin-2.min.css
+├── js/
+│   └── sb-admin-2.min.js
+├── vendor/
+│   └── (file-file vendor seperti Bootstrap, FontAwesome, dll)
+└── database/
+    └── spk_wp.sql (file SQL untuk membuat database)
