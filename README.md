@@ -1,5 +1,15 @@
 <<<<<<< HEAD
 # SI-BEAKAB
+Merupakan sistem pendukung keputusan untuk seleksi penerima beasiswa pemkab Asahan menggunakan metode weighted product
+# Tampilan
+![image](https://github.com/user-attachments/assets/52b67176-c5b9-4765-b897-34f88709d803)
+![image](https://github.com/user-attachments/assets/0c62a209-5106-487f-8f40-8fcd30c3ca22)
+![image](https://github.com/user-attachments/assets/55499f59-d412-4405-8e40-8a910ab18846)
+![image](https://github.com/user-attachments/assets/53233650-96fd-468b-9131-0c986697376c)
+![image](https://github.com/user-attachments/assets/509d7b6e-50d8-4c32-b641-5fd53092805e)
+
+
+
 =======
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
 
